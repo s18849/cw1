@@ -6,7 +6,7 @@ namespace Cw1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("pierwszy commit");
+            Console.WriteLine("drugi commit");
         }
     }
 }
